@@ -1,3 +1,7 @@
+# 微软官方视频：
+- [官方视频教程](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
+
+
 # Getting started with Python
 
 ## Overview
