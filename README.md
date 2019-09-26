@@ -1,6 +1,8 @@
 # 官方视频教程：
 - [微软官方短视频教程](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
 
+- ![WX20190926-091652.png](https://i.loli.net/2019/09/26/tvOhAkrEQmnR764.png)
+
 
 # Getting started with Python
 
