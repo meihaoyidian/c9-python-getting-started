@@ -1,4 +1,4 @@
-# 官方入门视频教程：
+# 官方视频教程：
 - [微软官方短视频教程](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
 
 
